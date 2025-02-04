@@ -40,6 +40,8 @@ This Python application allows you to upload a PDF and ask questions about its c
 - dotenv for managing environment variables.
 
 ## Home page
+![System](https://github.com/user-attachments/assets/def17790-adde-4d52-9f7a-699b1c1c241d)
+
 
 ## Setup
 ### Prerequisites
