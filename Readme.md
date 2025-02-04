@@ -44,7 +44,7 @@ This Python application allows you to upload a PDF and ask questions about its c
 
 ## Try the App 🚀
 You can try the application live at:
-👉 [Chat with Your PDF]([https://your-username-your-repo-name.streamlit.app/](https://ai-powered-q-a-system-boemtd6mtfphlggenujbd3.streamlit.app/))
+👉 [Chat with Your PDF]([https://ai-powered-q-a-system.streamlit.app/])
 
 
 ## Setup
